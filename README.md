@@ -29,3 +29,11 @@ i) ( F ) float x = 2.7;
 j) ( F ) int a = false;
 
 ---
+
+### **As respostas para as questões 2, 3 e 4 do livro da dupla Batista & Moraes estão nos programas de respectivos nomes:**
+
+```
+- BMExercicio02.java
+- BMExercicio03.java
+- BMExercicio04.java
+```
