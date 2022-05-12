@@ -11,15 +11,11 @@ public class BMExercicio04 {
 
         long long1 = 100l;
         int int1 = 200;
-        int int2 = int1 + long1;
+        int int2 = (int) (int1 + long1);
 
         /**
-         * Foi encontrado um erro em que o java não consegue converter uma variável long
-         * para int para assim poder realizar o cálculo corretamente, já que em java,
-         * não se pode somar duas variáveis de tipos diferentes, pois o java olha para o
-         * tipo da variável e não para o valor que ela armazena. A mensagem de erro
-         * obtida foi:
-         * "Type mismatch: cannot convert from long to int"
+         * Agora o erro foi arrumado para que não ocorra o erro anterior na linha 14.
          */
+
     }
 }
