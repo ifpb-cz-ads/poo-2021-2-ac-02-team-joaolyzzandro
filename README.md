@@ -22,8 +22,10 @@ f) ( F ) boolean epar = (4%2=0)
 
 g) ( F ) char nome = “Maria”;
 
-h) ( V ) String b = “1”
+h) ( F ) String b = “1”
 
 i) ( F ) float x = 2.7;
 
 j) ( F ) int a = false;
+
+---
